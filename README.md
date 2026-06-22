@@ -2,6 +2,11 @@
 
 An AI-powered PDF Question Answering system built using Streamlit, ChromaDB, Sentence Transformers, and Ollama.
 
+## Demo
+
+![AI PDF Chatbot](screenshot.png)
+
+
 ## Features
 
 * Upload PDF documents
