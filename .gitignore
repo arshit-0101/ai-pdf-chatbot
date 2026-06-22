@@ -2,4 +2,8 @@ venv/
 .venv/
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 .chroma/
+=======
+.chroma/
+>>>>>>> 94695c4c068b6c53c8e0a60c12eab6661877e320
